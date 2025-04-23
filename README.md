@@ -1,0 +1,1 @@
+Bu proje Mikroişlemciler kodlaması öğrenilirken geliştirilmiştir. C dilinde hazırlanmıştır. Kullanılan ekipmanlar; Arduino Uno, LM35(ısı sensörü), Buzzer(5V-12V), MQ4(Isı Sensörü), I2C LCD ekran, BreadBoard ve ara kablolar.
